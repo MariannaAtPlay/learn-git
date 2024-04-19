@@ -1,1 +1,3 @@
 Commit refers to tree refers to Blob
+
+some more notes
